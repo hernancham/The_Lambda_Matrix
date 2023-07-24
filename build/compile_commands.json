@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\gtest_project.dir\\src\\main.cpp.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\The_Lambda_Matrix\\src\\main.cpp\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/src/main.cpp",
+  "output": "CMakeFiles/gtest_project.dir/src/main.cpp.obj"
+}
+]

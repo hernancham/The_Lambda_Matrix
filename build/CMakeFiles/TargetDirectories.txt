@@ -1,0 +1,5 @@
+C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/CMakeFiles/gtest_project.dir
+C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/CMakeFiles/package.dir
+C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/CMakeFiles/package_source.dir
+C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/CMakeFiles/edit_cache.dir
+C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/CMakeFiles/rebuild_cache.dir

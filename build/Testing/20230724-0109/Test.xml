@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20230724-0109-Experimental"
+	Name="PC-H"
+	Generator="ctest-3.27.0"
+	CompilerName="C:/msys64/mingw64/bin/g++.exe"
+	CompilerVersion="13.1.0"
+	OSName="Windows"
+	Hostname="PC-H"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="4"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="17696"
+	TotalPhysicalMemory="7421"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3193"
+	>
+	<Testing>
+		<StartDateTime>Jul 23 20:22 Hora est. Pac[NON-UTF-8-BYTE-0xED]fico, Sudam[NON-UTF-8-BYTE-0xE9]rica</StartDateTime>
+		<StartTestTime>1690161777</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 23 20:22 Hora est. Pac[NON-UTF-8-BYTE-0xED]fico, Sudam[NON-UTF-8-BYTE-0xE9]rica</EndDateTime>
+		<EndTestTime>1690161777</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
