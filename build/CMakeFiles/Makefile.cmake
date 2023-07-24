@@ -7,21 +7,29 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeDependentOption.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeRCInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/GNU-C.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Compiler/GNU.cmake"
-  "C:/Program Files/CMake/share/cmake-3.27/Modules/FindGTest.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/FindPackageMessage.cmake"
-  "C:/Program Files/CMake/share/cmake-3.27/Modules/GoogleTest.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/FindPython/Support.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/FindPython3.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/GNUInstallDirs.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake"
@@ -29,10 +37,22 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake"
+  "C:/Program Files/CMake/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake"
   "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/CMakeLists.txt"
+  "CMakeFiles/3.27.0/CMakeCCompiler.cmake"
   "CMakeFiles/3.27.0/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.27.0/CMakeRCCompiler.cmake"
   "CMakeFiles/3.27.0/CMakeSystem.cmake"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/src/CMakeLists.txt"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/CMakeLists.txt"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googlemock/CMakeLists.txt"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googlemock/cmake/gmock.pc.in"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googlemock/cmake/gmock_main.pc.in"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googletest/CMakeLists.txt"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googletest/cmake/Config.cmake.in"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googletest/cmake/gtest.pc.in"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googletest/cmake/gtest_main.pc.in"
+  "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googletest/cmake/internal_utils.cmake"
   )
 
 # The corresponding makefile is:
@@ -44,9 +64,22 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "third-party/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "third-party/googletest/googletest/generated/gmock.pc"
+  "third-party/googletest/googletest/generated/gmock_main.pc"
+  "third-party/googletest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "third-party/googletest/googletest/generated/GTestConfigVersion.cmake"
+  "third-party/googletest/googletest/generated/GTestConfig.cmake"
+  "third-party/googletest/googletest/generated/gtest.pc"
+  "third-party/googletest/googletest/generated/gtest_main.pc"
+  "third-party/googletest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/gtest_project.dir/DependInfo.cmake"
+  "third-party/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "third-party/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "third-party/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "third-party/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   )

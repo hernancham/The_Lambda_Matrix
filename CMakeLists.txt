@@ -1,9 +1,20 @@
-cmake_minimum_required(VERSION 3.27)
-project(gtest_project CXX)
+cmake_minimum_required(VERSION 3.27.0)
+project(The_Lambda_Matrix VERSION 0.1.0)
 
-find_package(GTest)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
 
-add_executable(${PROJECT_NAME} src/main.cpp)
+#########
+# GTest #
+#########
 
-# Use the global target
-target_link_libraries(${PROJECT_NAME} gtest::gtest)
+enable_testing()
+add_subdirectory(third-party/googletest)
+include_directories(${gtest_SOURCE_DIR}/include ${gtest_SOURCE_DIR})
+
+###########
+# Project #
+###########
+
+add_subdirectory(src)

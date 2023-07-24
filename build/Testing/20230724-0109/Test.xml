@@ -21,14 +21,14 @@
 	TotalVirtualMemory="17696"
 	TotalPhysicalMemory="7421"
 	LogicalProcessorsPerPhysical="2"
-	ProcessorClockFrequency="3193"
+	ProcessorClockFrequency="3194"
 	>
 	<Testing>
-		<StartDateTime>Jul 23 20:22 Hora est. Pac[NON-UTF-8-BYTE-0xED]fico, Sudam[NON-UTF-8-BYTE-0xE9]rica</StartDateTime>
-		<StartTestTime>1690161777</StartTestTime>
+		<StartDateTime>Jul 23 21:40 Hora est. Pac[NON-UTF-8-BYTE-0xED]fico, Sudam[NON-UTF-8-BYTE-0xE9]rica</StartDateTime>
+		<StartTestTime>1690166417</StartTestTime>
 		<TestList/>
-		<EndDateTime>Jul 23 20:22 Hora est. Pac[NON-UTF-8-BYTE-0xED]fico, Sudam[NON-UTF-8-BYTE-0xE9]rica</EndDateTime>
-		<EndTestTime>1690161777</EndTestTime>
+		<EndDateTime>Jul 23 21:40 Hora est. Pac[NON-UTF-8-BYTE-0xED]fico, Sudam[NON-UTF-8-BYTE-0xE9]rica</EndDateTime>
+		<EndTestTime>1690166417</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
