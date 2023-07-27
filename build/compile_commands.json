@@ -1,26 +1,62 @@
 [
 {
-  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/third-party/googletest/googlemock",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\The_Lambda_Matrix\\third-party\\googletest\\googlemock\\src\\gmock-all.cc\"",
-  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googlemock/src/gmock-all.cc",
-  "output": "third-party/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/src/rational",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Rational_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\Rational_lib.dir\\Rational.cpp.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\src\\rational\\Rational.cpp\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/src/rational/Rational.cpp",
+  "output": "src/rational/CMakeFiles/Rational_lib.dir/Rational.cpp.obj"
 },
 {
-  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/third-party/googletest/googlemock",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\The_Lambda_Matrix\\third-party\\googletest\\googlemock\\src\\gmock_main.cc\"",
-  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googlemock/src/gmock_main.cc",
-  "output": "third-party/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/src/matrix",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Matrix_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\Matrix_lib.dir\\Matrix.cpp.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\src\\matrix\\Matrix.cpp\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/src/matrix/Matrix.cpp",
+  "output": "src/matrix/CMakeFiles/Matrix_lib.dir/Matrix.cpp.obj"
 },
 {
-  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/third-party/googletest/googletest",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\The_Lambda_Matrix\\third-party\\googletest\\googletest\\src\\gtest-all.cc\"",
-  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googletest/src/gtest-all.cc",
-  "output": "third-party/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/third_party/googletest/googlemock",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\third_party\\googletest\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/third_party/googletest/googlemock/src/gmock-all.cc",
+  "output": "third_party/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
 },
 {
-  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/build/third-party/googletest/googletest",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\The_Lambda_Matrix\\third-party\\googletest\\googletest\\src\\gtest_main.cc\"",
-  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/The_Lambda_Matrix/third-party/googletest/googletest/src/gtest_main.cc",
-  "output": "third-party/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/third_party/googletest/googlemock",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\third_party\\googletest\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/third_party/googletest/googlemock/src/gmock_main.cc",
+  "output": "third_party/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/third_party/googletest/googletest",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\third_party\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/third_party/googletest/googletest/src/gtest-all.cc",
+  "output": "third_party/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/third_party/googletest/googletest",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\third_party\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/third_party/googletest/googletest/src/gtest_main.cc",
+  "output": "third_party/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+},
+{
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Rationaltest1.dir/includes_CXX.rsp -g -o CMakeFiles\\Rationaltest1.dir\\RationalTest.cpp.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\tests\\RationalTest.cpp\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/tests/RationalTest.cpp",
+  "output": "tests/CMakeFiles/Rationaltest1.dir/RationalTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/tests",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Matrixtest2.dir/includes_CXX.rsp -g -o CMakeFiles\\Matrixtest2.dir\\MatrixTest.cpp.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\tests\\MatrixTest.cpp\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/tests/MatrixTest.cpp",
+  "output": "tests/CMakeFiles/Matrixtest2.dir/MatrixTest.cpp.obj"
+},
+{
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/examples",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Examples1.dir/includes_CXX.rsp -g -o CMakeFiles\\Examples1.dir\\Examples1.cpp.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\examples\\Examples1.cpp\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/examples/Examples1.cpp",
+  "output": "examples/CMakeFiles/Examples1.dir/Examples1.cpp.obj"
+},
+{
+  "directory": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/build/examples",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Examples2.dir/includes_CXX.rsp -g -o CMakeFiles\\Examples2.dir\\Examples2.cpp.obj -c \"C:\\Users\\HernanCham\\OneDrive - unjbg.edu.pe\\Estudios\\Projectos\\Proyecto 5\\examples\\Examples2.cpp\"",
+  "file": "C:/Users/HernanCham/OneDrive - unjbg.edu.pe/Estudios/Projectos/Proyecto 5/examples/Examples2.cpp",
+  "output": "examples/CMakeFiles/Examples2.dir/Examples2.cpp.obj"
 }
 ]
