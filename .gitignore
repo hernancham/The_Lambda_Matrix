@@ -1,5 +1,5 @@
-**/build
-**/.vscode
+build
+.vscode
 **/.cache
 **/compile_commands.json
-**/third_party/googletest
+**/googletest
