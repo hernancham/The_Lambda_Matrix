@@ -12,33 +12,48 @@ The Lambda Matrix es una librería de C++ diseñada para resolver operaciones ma
 
 ## Estructura del proyecto
 ```bash
-The_Lambda_Matrix
+The_Lambda_Matrix/
 ├── CMakeLists.txt
 ├── LICENSE
+├── README.md
 ├── build
-│ └── ...
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── CMakeConfigureLog.yaml
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── Makefile.cmake
+│   │   ├── Makefile2
+│   │   ├── TargetDirectories.txt
+│   │   ├── cmake.check_cache
+│   │   └── progress.marks
+│   ├── CTestTestfile.cmake
+│   ├── Makefile
+│   ├── Testing
+│   │   └── TAG
+│   ├── cmake_install.cmake
+│   └── compile_commands.json
 ├── examples
-│ ├── CMakeLists.txt
-│ ├── Examples1.cpp
-│ └── Examples2.cpp
+│   ├── CMakeLists.txt
+│   ├── Examples1.cpp
+│   └── Examples2.cpp
 ├── img
-│ ├── THE LAMBDA MATRIX LOGO.png
-│ └── github.comthe_lambda_matrix.png
+│   ├── THE LAMBDA MATRIX LOGO.png
+│   └── github.comthe_lambda_matrix.png
 ├── src
-│ ├── matrix
-│ │ ├── CMakeLists.txt
-│ │ ├── Matrix.cpp
-│ │ └── include
-│ │ └── Matrix.hpp
-│ └── rational
-│ ├── CMakeLists.txt
-│ ├── Rational.cpp
-│ └── include
-│ └── Rational.hpp
+│   ├── matrix
+│   │   ├── CMakeLists.txt
+│   │   ├── Matrix.cpp
+│   │   └── include
+│   │       └── Matrix.hpp
+│   └── rational
+│       ├── CMakeLists.txt
+│       ├── Rational.cpp
+│       └── include
+│           └── Rational.hpp
 └── tests
-├── CMakeLists.txt
-├── MatrixTest.cpp
-└── RationalTest.cpp
+    ├── CMakeLists.txt
+    ├── MatrixTest.cpp
+    └── RationalTest.cpp
 ```
 
 ## Características
