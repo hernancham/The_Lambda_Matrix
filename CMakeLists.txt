@@ -3,7 +3,9 @@
 # Autor: Hernan Ander Chambilla Chambilla
 # CoAutor: Carlos Alfredo Percca Anchapuri
 # CoAutor: Elian Yeltzin Paniagua Mariaca
-# Fecha: 2021-06-20
+# CoAutor: Rivaldo Danilo Moron Maylle
+# CoAutor: Francisco Jose Castro Flores
+# Fecha: 2023-07-30
 
 # Define la versión mínima de CMake requerida
 cmake_minimum_required(VERSION 3.26.0)
