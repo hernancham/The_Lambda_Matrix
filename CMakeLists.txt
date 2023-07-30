@@ -1,6 +1,7 @@
 # CMakeLists.txt
 # Proyecto: The Lambda Matrix
 # Autor: Hernan Ander Chambilla Chambilla
+# CoAutor: Carlos Alfredo Percca Anchapuri
 # Fecha: 2021-06-20
 
 # Define la versión mínima de CMake requerida
